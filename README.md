@@ -1,10 +1,13 @@
-# movieapp
+# The Movie App
 
-App Movie
+App clone và sử dụng API từ themoviedb áp dụng và làm quen với bloc pattern và repository pattern
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+- Go terminal type: flutter pub get.
+- Then start the app.
 
 A few resources to get you started if this is your first Flutter project:
 
